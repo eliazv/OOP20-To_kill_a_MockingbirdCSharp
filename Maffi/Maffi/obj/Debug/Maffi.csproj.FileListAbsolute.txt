@@ -1,0 +1,2 @@
+C:\Users\Gio\source\repos\Maffi\Maffi\obj\Debug\Maffi.csproj.AssemblyReference.cache
+C:\Users\Gio\source\repos\Maffi\Maffi\obj\Debug\Maffi.csproj.CoreCompileInputs.cache
