@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Briglia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Briglia\\.nuget\\packages"
+    ]
+  }
+}
