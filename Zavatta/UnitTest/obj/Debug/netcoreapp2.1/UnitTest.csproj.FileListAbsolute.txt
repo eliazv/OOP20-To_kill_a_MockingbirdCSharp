@@ -1,0 +1,6 @@
+C:\Users\Elia\source\repos\Zavatta\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csprojAssemblyReference.cache
+C:\Users\Elia\source\repos\Zavatta\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.Properties.Resources.resources
+C:\Users\Elia\source\repos\Zavatta\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.GenerateResource.cache
+C:\Users\Elia\source\repos\Zavatta\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Elia\source\repos\Zavatta\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfoInputs.cache
+C:\Users\Elia\source\repos\Zavatta\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfo.cs
