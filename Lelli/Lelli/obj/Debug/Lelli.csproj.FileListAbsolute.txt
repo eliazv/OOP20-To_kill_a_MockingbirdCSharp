@@ -1,7 +1,0 @@
-C:\Users\pietr\source\repos\Lelli\Lelli\bin\Debug\Lelli.exe.config
-C:\Users\pietr\source\repos\Lelli\Lelli\bin\Debug\Lelli.exe
-C:\Users\pietr\source\repos\Lelli\Lelli\bin\Debug\Lelli.pdb
-C:\Users\pietr\source\repos\Lelli\Lelli\obj\Debug\Lelli.csprojAssemblyReference.cache
-C:\Users\pietr\source\repos\Lelli\Lelli\obj\Debug\Lelli.csproj.CoreCompileInputs.cache
-C:\Users\pietr\source\repos\Lelli\Lelli\obj\Debug\Lelli.exe
-C:\Users\pietr\source\repos\Lelli\Lelli\obj\Debug\Lelli.pdb
