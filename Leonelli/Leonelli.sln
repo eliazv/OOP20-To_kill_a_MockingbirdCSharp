@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leonelli", "Leonelli\Leonelli.csproj", "{828A7687-48F4-4510-B83F-45C2CD34A02E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{99D438BF-22B4-41BE-A9DE-9A79EFC901EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828A7687-48F4-4510-B83F-45C2CD34A02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828A7687-48F4-4510-B83F-45C2CD34A02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828A7687-48F4-4510-B83F-45C2CD34A02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828A7687-48F4-4510-B83F-45C2CD34A02E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D438BF-22B4-41BE-A9DE-9A79EFC901EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D438BF-22B4-41BE-A9DE-9A79EFC901EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D438BF-22B4-41BE-A9DE-9A79EFC901EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D438BF-22B4-41BE-A9DE-9A79EFC901EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72EF94E4-79A9-4605-A516-4EAE3593DDE5}
+	EndGlobalSection
+EndGlobal

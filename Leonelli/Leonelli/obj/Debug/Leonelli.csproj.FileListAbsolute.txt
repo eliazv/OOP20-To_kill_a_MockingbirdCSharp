@@ -1,0 +1,2 @@
+C:\Users\Massimo\Desktop\Leonelli\Leonelli\obj\Debug\Leonelli.csproj.AssemblyReference.cache
+C:\Users\Massimo\Desktop\Leonelli\Leonelli\obj\Debug\Leonelli.csproj.CoreCompileInputs.cache
