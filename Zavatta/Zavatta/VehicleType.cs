@@ -8,20 +8,19 @@ namespace Zavatta
 {
     public enum VehicleType
     {
-
-        /**
-         * Identify a car.
-         */
+        /// <summary>
+        /// Identify a car.
+        /// </summary>
         CAR,
 
-        /**
-         * Identify a camion.
-         */
+        /// <summary>
+        /// Identify a truck.
+        /// </summary>
         TRUCK,
 
-        /**
-         * Identify a train.
-         */
+        /// <summary>
+        /// Identify a train.
+        /// </summary>
         TRAIN
     }
 
