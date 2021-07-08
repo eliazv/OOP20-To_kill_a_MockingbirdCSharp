@@ -1,0 +1,2 @@
+C:\Users\Elia\source\repos\Zavatta\Zavatta\obj\Debug\Zavatta.csprojAssemblyReference.cache
+C:\Users\Elia\source\repos\Zavatta\Zavatta\obj\Debug\Zavatta.csproj.CoreCompileInputs.cache
