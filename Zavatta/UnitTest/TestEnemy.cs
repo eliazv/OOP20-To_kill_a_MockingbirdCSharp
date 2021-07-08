@@ -19,8 +19,6 @@ namespace UnitTest
         {
             IVehicle vehicle = new Vehicle();
             vehicle.InitializeCar(4);
-            //Assert.AreEqual(4, vehicle.GetVehicle.YLoc);
-            //Assert.AreEqual(VEHICLE_SCROLL, vehicle.GetVehicle.YDir);
             Assert.IsTrue(vehicle.GetVehicleType == VehicleType.TRUCK || vehicle.GetVehicleType == VehicleType.CAR);
             Assert.IsTrue(vehicle.GetVehicleSpeed >= TRUCK_SPEED
                     && vehicle.GetVehicleSpeed <= CAR_SPEED + RANDOM_SPEED_ADDITION);
@@ -33,8 +31,6 @@ namespace UnitTest
         {
             IVehicle vehicle = new Vehicle();
             vehicle.InitializeTrain(4);
-            //Assert.AreEqual(4, vehicle.GetVehicle.YLoc());
-            //Assert.AreEqual(VEHICLE_SCROLL, vehicle.GetVehicle.YDir);
             Assert.AreEqual(VehicleType.TRAIN, vehicle.GetVehicleType);
             Assert.IsTrue(vehicle.GetVehicleSpeed >= TRAIN_SPEED
                     && vehicle.GetVehicleSpeed <= TRAIN_SPEED + RANDOM_SPEED_ADDITION);
